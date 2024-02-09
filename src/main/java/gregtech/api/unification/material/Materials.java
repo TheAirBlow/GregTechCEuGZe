@@ -564,7 +564,6 @@ public class Materials {
     /**
      * Not possible to determine exact Components
      */
-    public static Material Latex;
     public static Material WoodGas;
     public static Material WoodVinegar;
     public static Material WoodTar;
